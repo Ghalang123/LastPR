@@ -1,0 +1,24 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: azure;
+}
+
+#Home {
+  background-color: antiquewhite;
+}
+
+#About {
+  background-color: beige;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.navbar {
+  background-color: cadetblue !important;
+}
+
+.nav-link {
+  color: cornflowerblue !important;
+}
